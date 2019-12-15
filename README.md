@@ -1,4 +1,4 @@
-# coursesgram
+# Coursesgram
 
 > A Vue.js project
 
